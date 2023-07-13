@@ -6,7 +6,7 @@
 }
 .bannerBgImage{
 height: 100vh;
-background-image: url("/bannerimg.webp");
+background-image: url("../BUNGTAN/bannerimg.webp");
 background-size: cover;
 position: relative;
 }
